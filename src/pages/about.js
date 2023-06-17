@@ -29,7 +29,7 @@ function About() {
                      encourage you to Contact immediately and we will do our best efforts to promptly remove such information from our records</p>
             </div>
             <RWebShare data={{
-                url: "http://localhost:3000/about"
+                url: "https://anujwrites.netlify.app/about"
             }}>
                 <h6 className='lefth6'>SHARE</h6>
             </RWebShare>
