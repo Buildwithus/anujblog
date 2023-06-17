@@ -16,10 +16,10 @@ function Layout(){
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav  ">
-        <a class="nav-link active " aria-current="page" href="/">Home</a>
-        <a class="nav-link active " href="/add">Add Blog</a> 
+        <Link class="nav-link active " aria-current="page" to="/">Home</Link>
+        <Link class="nav-link active " to="/add">Add Blog</Link> 
         <Link class="nav-link active " to="/about">About</Link>
-        <a class="nav-link active   " href='/privacy-policy'>Privacy Policy</a>    
+        <Link class="nav-link active   " to='/privacy-policy'>Privacy Policy</Link>    
          </div>
     </div>
   </div>
