@@ -5,7 +5,7 @@ import Image from './image.png';
 import Loader from './loader';
 import Social from './social';
 import { RWebShare } from 'react-web-share';
-import { useParams } from 'react-router-dom'
+import { Link,useParams } from 'react-router-dom'
 function Home() {
     const [data, setData] = useState([]);
     const [search, setSearch] = useState("");
@@ -70,7 +70,7 @@ function Home() {
                             </RWebShare>
                             
 
-                            <h6 className='lefth6'><a className='readm' href={`blog/${d._id}`}>READ MORE</a> </h6>
+                            <h6 className='lefth6'><Link className='readm' to={`blog/${d._id}`}>READ MORE</Link> </h6>
                         </div>
 
 
