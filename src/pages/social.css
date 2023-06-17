@@ -107,18 +107,18 @@ h4{
         margin-right: auto;
        
     }
-    .containers{
-        width: 97%;
-       
-        margin-left: auto;
-        margin-right: auto;
-    }
-    .sss{
-        width: 250px;
+     .sss{
+        width: 270px;
         margin-left: auto;
         margin-right: auto;
         padding: 20px 10px;
         display: flex;
+    }
+    .instaa{
+        width: 40px;
+        height: 40px;
+        border-radius: 5px;
+       
     }
 }
 @media only screen and (min-width:400px) and (max-width: 500px)  {
@@ -135,15 +135,15 @@ h4{
         margin-right: auto;
     }
     .sss{
-        width: 220px;
+        width: 270px;
         margin-left: auto;
         margin-right: auto;
         padding: 20px 10px;
         display: flex;
     }
     .instaa{
-        width: 30px;
-        height: 30px;
+        width: 40px;
+        height: 40px;
         border-radius: 5px;
        
     }
@@ -161,17 +161,17 @@ h4{
         margin-left: auto;
         margin-right: auto;
     }
-    .sss{
-        width: 200px;
+   .sss{
+        width: 250px;
         margin-left: auto;
         margin-right: auto;
         padding: 20px 10px;
         display: flex;
     }
     .instaa{
-        width: 28px;
-        height: 28px;
-        border-radius: 4px;
+        width: 34px;
+        height: 34px;
+        border-radius: 5px;
        
     }
     
