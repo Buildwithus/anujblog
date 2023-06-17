@@ -34,13 +34,22 @@
 }
 @media only screen and (min-width:600px) and (max-width: 700px)  {
     .containeraboutt{
-        width: 100%;
+        width: 95%;
     } 
     
 }
 @media only screen and (min-width:200px) and (max-width: 600px)  {
     .containeraboutt{
-        width: 100%;
+        width: 93%;
     } 
+     .ppp{
+        margin-bottom: 40px;
+        font-size: 17px;
+    }
+    .h1about{
+        padding-top:65px;
+        padding-bottom: 40px;
+        padding-left: 20px;
+    }
     
 }
