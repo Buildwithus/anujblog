@@ -282,7 +282,7 @@ h6>a {
     }
 
     .body {
-        width: 97%;
+        width: 93%;
     }
 
     .right {
@@ -315,7 +315,7 @@ h6>a {
     }
 
     .srct {
-        width: 97%;
+        width: 93%;
         margin-left: auto;
         margin-right: auto;
     }
@@ -324,6 +324,11 @@ h6>a {
         font-size: 13px;
         border-width: 2px;
     }
+    h3 {
+    text-align: center;
+    padding-top: 13vw;
+    padding-bottom: 9vw;
+}
 }
 
 @media only screen and (min-width:400px) and (max-width: 450px) {
@@ -337,7 +342,7 @@ h6>a {
     }
 
     .body {
-        width: 97%;
+        width: 93%;
     }
 
     .right {
@@ -370,7 +375,7 @@ h6>a {
     }
 
     .srct {
-        width: 97%;
+        width: 93%;
         margin-left: auto;
         margin-right: auto;
     }
@@ -379,6 +384,11 @@ h6>a {
         font-size: 13px;
         border-width: 2px;
     }
+      h3 {
+    text-align: center;
+    padding-top: 15vw;
+    padding-bottom: 10vw;
+}
 }
 
 @media only screen and (min-width:300px) and (max-width: 400px) {
@@ -392,7 +402,7 @@ h6>a {
     }
 
     .body {
-        width: 97%;
+        width: 93%;
     }
 
     .right {
@@ -425,7 +435,7 @@ h6>a {
     }
 
     .srct {
-        width: 97%;
+        width: 93%;
         margin-left: auto;
         margin-right: auto;
     }
@@ -434,6 +444,11 @@ h6>a {
         font-size: 13px;
         border-width: 2px;
     }
+      h3 {
+    text-align: center;
+    padding-top: 15vw;
+    padding-bottom: 10vw;
+}
 }
 
 @media only screen and (min-width:200px) and (max-width: 300px) {
