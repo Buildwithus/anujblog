@@ -26,7 +26,7 @@ function Veiw() {
                     <h5 className='h55'>{veiw.Date}</h5>
                     <p className='p'>{veiw.Content}</p>
                     <RWebShare data={{
-                    url: `http://localhost:3000/blog/${id}`
+                    url: `https://anujwrites.netlify.app/blog/${id}`
                 }}>
                     <h6 className='lefth6'>SHARE POST</h6>
                 </RWebShare>
