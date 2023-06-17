@@ -1,0 +1,41 @@
+.indexleft{
+    margin-left: 3rem;
+    
+}
+
+.navbar-toggler{
+    border: none;
+    color: rgb(3, 148, 252);
+}
+.navbar-brand{
+    color: rgb(3, 148, 252);
+}
+.cen{
+    margin-left: auto;
+    margin-right: auto;
+}
+nav{
+    background-color: rgb(209, 213, 218);
+    font-size: 100%;
+}
+#root{
+    background-color:rgb(209, 213, 218);;
+}
+
+@media only screen and (min-width: 992px) and (max-width:6000px) {
+    nav{
+        width: 72%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+   
+    .navbar-nav{
+       
+        
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .nav-link{
+        margin-left: 50px;
+    }
+}

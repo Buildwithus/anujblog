@@ -1,0 +1,209 @@
+.containers{
+    width: 72%;
+    background-color:rgb(181, 205, 233);
+    margin-left: auto;
+    margin-right: auto; 
+}
+.smallc{
+    width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.tt{
+    color: white;
+}
+.last-d{
+    text-align: center;
+    font-size: 14px;
+    padding-top: 7px;
+    color: rgb(15, 1, 25);
+    padding-bottom: 20px;
+}
+.navii{
+    width: 100%;
+    padding: 20px 10px;
+    display: flex;
+   
+}
+h4{
+    text-align: center;
+    padding: 10px;
+}
+.na{
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: none;
+ color: rgb(20, 3, 32);
+}
+.sss{
+    width: 280px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 10px;
+    display: flex;
+}
+.instaa{
+    width: 35px;
+    height: 35px;
+    border-radius: 6px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:rgb(42, 68, 235);
+    align-items: center;
+}
+.instaa:hover{
+    background-color:rgb(35, 45, 112) ;
+}
+.cent{
+    width: 100%;
+    text-align: center;
+}
+@media only screen and (min-width:700px) and (max-width: 992px)  {
+    .smallc{
+        width: 550px;
+        margin-left: auto;
+        margin-right: auto;
+       
+    }
+    .containers{
+        width: 97%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .sss{
+        width: 250px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 20px 10px;
+        display: flex;
+    }
+}
+@media only screen and (min-width:600px) and (max-width: 700px)  {
+    .smallc{
+        width: 550px;
+        margin-left: auto;
+        margin-right: auto;
+       
+    }
+    .containers{
+        width: 97%;
+
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .sss{
+        width: 250px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 20px 10px;
+        display: flex;
+    }
+}
+@media only screen and (min-width:500px) and (max-width: 600px)  {
+    .smallc{
+        width: 450px;
+        margin-left: auto;
+        margin-right: auto;
+       
+    }
+    .containers{
+        width: 97%;
+       
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .sss{
+        width: 250px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 20px 10px;
+        display: flex;
+    }
+}
+@media only screen and (min-width:400px) and (max-width: 500px)  {
+    .smallc{
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+       
+    }
+    .containers{
+        width: 97%;
+       
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .sss{
+        width: 220px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 20px 10px;
+        display: flex;
+    }
+    .instaa{
+        width: 30px;
+        height: 30px;
+        border-radius: 5px;
+       
+    }
+}
+@media only screen and (min-width:300px) and (max-width: 400px)  {
+    .smallc{
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+       
+    }
+    .containers{
+        width: 97%;
+    
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .sss{
+        width: 200px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 20px 10px;
+        display: flex;
+    }
+    .instaa{
+        width: 28px;
+        height: 28px;
+        border-radius: 4px;
+       
+    }
+    
+}
+@media only screen and (min-width:200px) and (max-width: 300px)  {
+    .smallc{
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+       
+    }
+    .containers{
+        width: 97%;
+   
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .sss{
+        width: 200px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 20px 10px;
+        display: flex;
+    }
+    .instaa{
+        width: 28px;
+        height: 28px;
+        border-radius: 4px;
+       
+    }
+    .na{
+        font-size: 12px;
+    }
+    
+}

@@ -1,0 +1,46 @@
+.containeraboutt{
+    width: 72%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ppp{
+    margin-bottom: 40px;
+}
+.conp{
+    width: 97%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.containerabout{
+    width: 100%;
+    background-color: skyblue;
+}
+.h11about{
+    padding-top:60px;
+    padding-bottom: 40px;
+    padding-left: 10px;
+}
+.h1about{
+    padding-top:70px;
+    padding-bottom: 40px;
+    padding-left: 30px;
+}
+@media only screen and (min-width:700px) and (max-width: 992px)  {
+    .containeraboutt{
+        width: 100%;
+    } 
+    
+}
+@media only screen and (min-width:600px) and (max-width: 700px)  {
+    .containeraboutt{
+        width: 100%;
+    } 
+    
+}
+@media only screen and (min-width:200px) and (max-width: 600px)  {
+    .containeraboutt{
+        width: 100%;
+    } 
+    
+}
