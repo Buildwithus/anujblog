@@ -1,6 +1,7 @@
 
 import './social.css';
 import React from 'react';
+import {Link} from 'react-router-dom'
 import { BsInstagram } from "react-icons/bs";
 import { SiTwitter } from "react-icons/si";
 import { BsGithub } from "react-icons/bs";
@@ -14,9 +15,9 @@ function Social() {
             <div className='smallc' >
             
                 <div className='navii'>
-                    <a className='na' href='/'>Home </a>
-                    <a className='na' href='/about'>About </a>
-                    <a className='na' href='/add'>Add Blog </a>
+                    <Link className='na' to='/'>Home </Link>
+                    <Link className='na' to='/about'>About </Link>
+                    <Link className='na' to='/add'>Add Blog </Link>
                     <a className='na' href='https://anujkumaar.netlify.app/'>Portfolio </a>
                 </div>
                 <div className='sss'>
