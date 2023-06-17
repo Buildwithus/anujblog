@@ -9,7 +9,7 @@ function About() {
             <div className='containerabout'>
                 <h1 className='h1about'>About Us</h1>
             </div>
-            <h5 className='h1about'>About Us</h5>
+            <h5 className='h11about'>About Us</h5>
             <div className='conp'>
                 <p className='ppp' >Hi, myself Anuj Kumar from Uttar Pradesh ,India. Anuj writes Blog is dedicated to all those who love and admire poem, story, creativity, new thinking etc. </p>
                 <p className='ppp' >If we have added some content that belong to you or your organization by mistake, We are sorry for that.
@@ -20,7 +20,7 @@ function About() {
                 <p className='ppp'>If you have any query regarding Site, and any other ussue, please feel free to contact at anujkumar666768@gmail.com</p>
                 
             </div>
-            <h5 className='h1about'>Children's Information</h5>
+            <h5 className='h11about'>Children's Information</h5>
             <div className='conp'>
                 
                 <p className='ppp'>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.</p>
