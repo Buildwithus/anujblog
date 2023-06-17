@@ -64,7 +64,7 @@ function Home() {
                             <h5 className='h55'>{d.Date}</h5>
                             <p className='p'>  {d.Content.slice(0, 200)}</p>
                             <RWebShare data={{
-                                url: "http://localhost:3000"
+                                url: "https://anujwrites.netlify.app/"
                             }}>
                                 <h6>SHARE POST</h6>
                             </RWebShare>
