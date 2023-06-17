@@ -38,7 +38,7 @@ function Privacy() {
                 
             </div>
             <RWebShare data={{
-                url: "http://localhost:3000/privacy-policy"
+                url: "https://anujwrites.netlify.app/privacy-policy"
             }}>
                 <h6 className='lefth6'>SHARE</h6>
             </RWebShare>
