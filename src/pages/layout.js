@@ -1,4 +1,4 @@
-import {Outlet} from 'react-router-dom'
+import {Link,Outlet} from 'react-router-dom'
 import './layout.css'
 
 
@@ -18,7 +18,7 @@ function Layout(){
       <div class="navbar-nav  ">
         <a class="nav-link active " aria-current="page" href="/">Home</a>
         <a class="nav-link active " href="/add">Add Blog</a> 
-        <a class="nav-link active  " href="/about">About</a>
+        <Link class="nav-link active " to="/about">About</Link>
         <a class="nav-link active   " href='/privacy-policy'>Privacy Policy</a>    
          </div>
     </div>
